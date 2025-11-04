@@ -1,85 +1,50 @@
-<!-- 🌸 Banner Lo-Fi -->
+<!-- 🌙 README estilo Lo-Fi por Thuany 💕 -->
+<!-- Tons pastéis | vibe noturna | minimalista -->
+
 <div align="center">
-  <img src="https://media.giphy.com/media/j5hzzqA9v3v3y/giphy.gif" width="100%" alt="Menina parda e cacheada programando estilo Lo-Fi">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZsbWlkbGtjOW1lYzJubXZnaXFyaGRyd3gyYmhycHczdmowM2t1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="650" alt="lofi girl coding"/>
 </div>
 
----
-
-<h2 align="center">🌸 Oii! Eu sou a Thuany 💕</h2>
+<h2 align="center">🌷 Olá, eu sou a Thuany ☕</h2>
 
 <p align="center">
-✨ Desenvolvedora Full Stack em formação | Estilo Lo-Fi ☕ | Criativa e curiosa por natureza  
-Apaixonada por tecnologia, por aprender coisas novas e por transformar ideias em código 💻🌷
+Desenvolvedora Back-End em formação — apaixonada por <strong>Java</strong>, <strong>MySQL</strong> e o mundo da programação 💻✨<br/>
+Formada pelo bootcamp da <strong>Generation Brasil</strong> 🚀
 </p>
 
 ---
 
-### 🎧 Sobre mim
-
-🌿 Formada pelo **Bootcamp da Generation Brasil**  
-💻 Tenho conhecimento em **Back-end com Java e Spring Boot**  
-🗄️ Trabalho com **MySQL** para modelagem e persistência de dados  
-🔍 Uso o **Insomnia** para testar e documentar minhas APIs  
-🎨 Também me aventuro no **Front-end com HTML, CSS e JavaScript**  
-☕ Amo o equilíbrio entre lógica e criatividade — programar ouvindo Lo-Fi é meu ritual favorito 💫
-
----
-
-### 🪄 Tecnologias e Ferramentas
-
+### 💻 Tecnologias que uso e estudo
 <div align="center">
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-</div>
-
-<div align="center">
-  <!-- Ferramentas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" width="45" height="45" alt="Insomnia logo"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,insomnia,git,github,vscode" alt="tech stack"/>
 </div>
 
 ---
 
-### ☁️ Minha vibe
+### 🌙 Um pouquinho sobre mim
+- ☕ Amo estudar à noite, com um bom café e uma playlist Lo-Fi.  
+- 💡 Sempre buscando aprender algo novo no universo da tecnologia.  
+- 🎧 Foco, calma e código — a melhor combinação!  
+
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/j5hzzqA9v3v3y/giphy.gif" width="300px" alt="Menina cacheada programando à noite com café">
-  <p><em>“Code com calma, café e propósito ☕💻”</em></p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF4Mjk4ZWIxNTB0MHFyM2J5M2ZjZm5scTVsZzJ6a2FhZjA0azQ5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XreQmk7ETCak0/giphy.gif" width="450" alt="lofi coding girl"/>
 </div>
 
 ---
 
-### 💌 Vamos nos conectar?
-
+### ✉️ Onde me encontrar
 <div align="center">
-  <a href="https://www.linkedin.com/in/thuanyalinesilva" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23c1a1d3?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="thuany.aline@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-E--mail-%23f4c2c2?style=for-the-badge&logo=maildotru&logoColor=white" />
-  </a>
-  <a href="https://github.com/ThuanyAline" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23a9c9ff?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-Contact_Me!-pink?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+  <a href="https://github.com/ThuanySilva"><img src="https://img.shields.io/badge/GitHub-Thuany_Silva-lavender?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="150px" alt="Gatinho programando estilo Lo-Fi"/>
-  <p><strong>🌷 Feito com carinho por Thuany 💻</strong></p>
-</div>
-
----
-
-<!-- Rodapé Lo-Fi -->
-<div align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100%" alt="Cidade Lo-Fi noturna com luzes">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHY1eXlwY2I4eWVncXZ1c2l0aXg4cHJhZGh3Z2h0aGVkdnM2NGZibSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="650" alt="lofi window night"/>
+  <br/>
+  <sub>🌸 Feito com carinho e café por Thuany 🌸</sub>
 </div>
 
