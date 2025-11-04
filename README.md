@@ -1,6 +1,6 @@
 <!-- 🌸 Banner Lo-Fi -->
 <div align="center">
-  <img src="https://media.tenor.com/CfJd8LP9j6EAAAAC/lofi-girl.gif" width="100%" alt="Menina parda e cacheada programando estilo Lo-Fi">
+  <img src="https://media.giphy.com/media/j5hzzqA9v3v3y/giphy.gif" width="100%" alt="Menina parda e cacheada programando estilo Lo-Fi">
 </div>
 
 ---
@@ -16,6 +16,7 @@ Apaixonada por tecnologia, por aprender coisas novas e por transformar ideias em
 
 ### 🎧 Sobre mim
 
+🌿 Formada pelo **Bootcamp da Generation Brasil**  
 💻 Tenho conhecimento em **Back-end com Java e Spring Boot**  
 🗄️ Trabalho com **MySQL** para modelagem e persistência de dados  
 🔍 Uso o **Insomnia** para testar e documentar minhas APIs  
@@ -48,7 +49,7 @@ Apaixonada por tecnologia, por aprender coisas novas e por transformar ideias em
 ### ☁️ Minha vibe
 
 <div align="center">
-  <img src="https://media.tenor.com/_2G6S1rMQCwAAAAC/lofi-girl-night.gif" width="300px" alt="Menina cacheada programando à noite com café">
+  <img src="https://media.giphy.com/media/j5hzzqA9v3v3y/giphy.gif" width="300px" alt="Menina cacheada programando à noite com café">
   <p><em>“Code com calma, café e propósito ☕💻”</em></p>
 </div>
 
@@ -57,7 +58,7 @@ Apaixonada por tecnologia, por aprender coisas novas e por transformar ideias em
 ### 💌 Vamos nos conectar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thuanyalinesilva/" target="_blank">
+  <a href="https://www.linkedin.com/in/thuanyalinesilva" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23c1a1d3?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="thuany.aline@hotmail.com" target="_blank">
@@ -71,7 +72,7 @@ Apaixonada por tecnologia, por aprender coisas novas e por transformar ideias em
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/6RkqJ7p4FQcAAAAC/cute-cat-coding.gif" width="150px" alt="Gatinho programando estilo Lo-Fi"/>
+  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="150px" alt="Gatinho programando estilo Lo-Fi"/>
   <p><strong>🌷 Feito com carinho por Thuany 💻</strong></p>
 </div>
 
@@ -79,15 +80,6 @@ Apaixonada por tecnologia, por aprender coisas novas e por transformar ideias em
 
 <!-- Rodapé Lo-Fi -->
 <div align="center">
-  <img src="https://media.tenor.com/Z4zN1Ng_wGkAAAAC/lofi-city.gif" width="100%" alt="Cidade Lo-Fi noturna com luzes">
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="100%" alt="Cidade Lo-Fi noturna com luzes">
 </div>
 
-  <p><strong>🌷 Feito com carinho por Thuany 💻</strong></p>
-</div>
-
----
-
-<!-- Rodapé Lo-Fi -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/60/ed/bd/60edbde8f8e82ed84199ad1e48d7c2f1.gif" width="100%" alt="Lo-Fi city night">
-</div>
